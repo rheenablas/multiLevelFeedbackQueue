@@ -5,7 +5,6 @@ A multilevel feedback queue implemented through python.
 An outline how the multilevel feedback queue works, the power saving and idle process algorithm used, 
 
 -	Multilevel Feedback Queues Scheduling:
-  
   o	 Get the current/highest priority process
   o	Subtract the queue time from the process’ time
   o	If the process still have remaining time
